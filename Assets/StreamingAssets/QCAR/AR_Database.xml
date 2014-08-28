@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="TestImage1" size="1.000000 1.000000" />
+    <ImageTarget name="LogoVulpine" size="1.000000 0.500000" />
+    <ImageTarget name="CardVulpine4" size="1.000000 0.584375" />
+    <ImageTarget name="CardVulpine" size="1.000000 0.687500" />
+    <ImageTarget name="CardVulpine2" size="1.000000 0.562500" />
+    <ImageTarget name="LogoVulpine_enhanced" size="1.000000 0.750000" />
+    <ImageTarget name="CardVulpine3" size="1.000000 0.584375" />
+    <ImageTarget name="CardVulpine6" size="1.000000 0.584375" />
+    <ImageTarget name="CardVulpine7" size="1.000000 0.584375" />
+  </Tracking>
+</QCARConfig>
